@@ -1,0 +1,119 @@
+select {
+	padding: 20px;
+	background-color: rgb(242,242,242);
+}
+
+select option[value="Hamilton"], option[value="Bottas"], .mercedes {
+	background: black;
+	color: rgb(2,168,158);
+}
+
+select option[value="Vettel"], option[value="Raikkonen"], .ferrari {
+	background: red;
+	color: white;
+}
+
+select option[value="Ricciardo"], option[value="Verstappen"], .redbull {
+	background: rgb(18,20,41);
+	color: white;
+}
+
+select option[value="Perez"], option[value="Ocon"], .force {
+	background: rgb(255,153,204);
+	color: white;
+}
+
+select option[value="Sainz"], option[value="Hulkenberg"], .renault {
+	background: rgb(249,214,0);
+	color: rgb(13,11,12);
+}
+
+select option[value="Sirotkin"], option[value="Stroll"], .williams {
+	background: rgb(242,239,234);
+	color: rgb(65,71,103);
+}
+
+select option[value="Grosjean"], option[value="Magnussen"], .haas {
+	background: rgb(216,216,216);
+	color: rgb(170,11,33);
+}
+
+select option[value="Alonso"], option[value="Vandoorne"], .mclaren {
+	background: rgb(226,107,10);
+	color: black;
+}
+
+select option[value="Gasly"], option[value="Hartley"], .torrorosso {
+	background: rgb(32,77,132);
+	color: rgb(255,51,0);
+}
+
+select option[value="Ericsson"], option[value="Leclerc"], .sauber {
+	background: rgb(182,0,38);
+	color: rgb(218,220,219);
+}
+
+select option[value="AMG"] {
+	background: black;
+	color: rgb(2,168,158);
+}
+
+select option[value="Scuderia"] {
+	background: red;
+	color: white;
+}
+
+select option[value="Redbull"] {
+	background: rgb(18,20,41);
+	color: white;
+}
+
+select option[value="Force"] {
+	background: rgb(255,153,204);
+	color: white;
+}
+
+select option[value="Williams"] {
+	background: rgb(242,239,234);
+	color: rgb(65,71,103);
+}
+
+select option[value="Renaultsport"] {
+	background: rgb(249,214,0);
+	color: rgb(13,11,12);
+}
+
+select option[value="Torro"] {
+	background: rgb(32,77,132);
+	color: rgb(255,51,0);
+}
+
+select option[value="Haas"] {
+	background: rgb(216,216,216);
+	color: rgb(170,11,33);
+}
+
+select option[value="McLaren"] {
+	background: rgb(226,107,10);
+	color: black;
+}
+
+select option[value="Sauber"] {
+	background: rgb(182,0,38);
+	color: rgb(218,220,219);
+}
+
+select option[value="Mercedes"] {
+	background: black;
+	color: rgb(2,168,158);
+}
+
+select option[value="Ferrari"] {
+	background: red;
+	color: white;
+}
+
+select option[value="Renault"] {
+	background: rgb(249,214,0);
+	color: rgb(13,11,12);
+}
